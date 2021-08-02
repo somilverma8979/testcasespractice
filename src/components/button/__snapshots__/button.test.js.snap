@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Array [
+  <button
+    onClick={[Function]}
+  >
+    Submit
+  </button>,
+  <div
+    className="button-style"
+    data-testid="button"
+    onClick={[Function]}
+  >
+    hello 
+    save
+  </div>,
+  "i",
+]
+`;
